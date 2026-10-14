@@ -1,0 +1,6 @@
+{
+  "name": "UnifiedCloud",
+  "description": "Multi-account Google Drive storage manager with real-time delta file sync, combined capacity, unified search, quota breakdown, and seamless cross-account uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
